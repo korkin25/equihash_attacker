@@ -1,0 +1,1 @@
+# equihash_attacker
